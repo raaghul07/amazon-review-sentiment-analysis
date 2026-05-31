@@ -1,3 +1,7 @@
+## View Notebook
+[Open in NBViewer](https://nbviewer.org/github/raaghul07/amazon-review-sentiment-analysis/blob/main/Amazon_Review_Sentiment_Analysis.ipynb)
+
+
 # 🎯 Amazon Product Review Sentiment Analysis
 
 NLP project analyzing 568,000+ Amazon food reviews using two approaches — traditional Machine Learning (TF-IDF + Logistic Regression) and a HuggingFace Transformer (DistilBERT).
